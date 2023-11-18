@@ -1046,3 +1046,7 @@ h4 {
         text-align: center;
     }
 }
+
+footer a {
+    color: white!important;
+}
